@@ -15,6 +15,9 @@
 							"name": "RealSolarSystem"
 						}
 					],
+    "recommends": [
+        { "name": "RSS-Airports" }
+    ],          
     "resources": {
         "homepage": "https://github.com/miki-g/RSS-FictionalKSC"
     }

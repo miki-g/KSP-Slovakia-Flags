@@ -18,6 +18,12 @@
     "recommends": [
         { "name": "RSS-Airports" }
     ],          
+    "install": [
+          {
+              "find" : "GameData/RSS-FictionalKSC",
+              "install_to" : "GameData"
+          }
+    ],
     "resources": {
         "homepage": "https://github.com/miki-g/RSS-FictionalKSC"
     }
